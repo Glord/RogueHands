@@ -1,0 +1,5 @@
+The game is a series of combats at rock, paper, scissors game with different enemies.
+
+Sign - enum with the sign (rock, paper, scissors)
+
+Some enemies are fighting with 2 hands, and in some combats the player also can use 2 hands - combat results should allow for multiple entries of signs.
